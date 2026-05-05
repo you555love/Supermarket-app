@@ -25,3 +25,4 @@ CREATE TABLE `products` (
 INSERT INTO `products` (`id`, `name`, `category`, `price`, `stock`, `image`, `created_at`) VALUES
 (1, 'Logitech G102', 'Mouse', '700.00', 1, '1777908236437-2022040614471452557_1.jpg', '2026-05-04 15:23:56'),
 (2, 'Logitech mx ergo', 'Mouse', '1590.00', 2, '1777969849127-mx-ergo-gallery-02.webp', '2026-05-05 08:30:49');
+--เป็นเพียงตัวอย่างในการเพิ่มข้อมูล
